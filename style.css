@@ -1,0 +1,47 @@
+.color {
+    color: orange;
+}
+
+.font-size {
+    width: 50%;
+    font-size: 30px;
+
+}
+
+.flexible-container {
+    display: flex;
+    margin-bottom: 100px;
+
+}
+
+.add-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700px;
+    border-color: orange
+}
+
+
+.side-setting {
+    width: 60%;
+    padding-left: 3%;
+}
+
+
+
+.side-setting img {
+    width: 200%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+h2 {
+    color: grey;
+}
+
+.image-setting {
+    width: 10%;
+    padding-left: 3%;
+}
